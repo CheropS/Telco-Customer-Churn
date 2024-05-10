@@ -10,3 +10,11 @@ The analysis will include conducting a linear and logistic regression to see the
 ### Importing
 We import the necessary for data processing, visualization, encoding, prediction libraries and one for ignoring warnings. 
 
+### Loading the dataset
+Get data from"https://www.kaggle.com/datasets/blastchar/telco-customer-churn" and downloaded to the local machine. 
+When using local machine, add the file to your working folder (TELCO)
+On your Google Drive, mount the downloaded data if you are using Google Colab 
+When using local machine, add the file to your working folder (TELCO)
+Disclaimer: If you have cloned the data, ignore the above steps
+
+
