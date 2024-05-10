@@ -17,4 +17,10 @@ On your Google Drive, mount the downloaded data if you are using Google Colab
 When using local machine, add the file to your working folder (TELCO)
 Disclaimer: If you have cloned the data, ignore the above steps
 
+### Exploring the dataset
+I explored the dataframe by checking the first and last ten rows. 
+used the decribe function to see the mean, standard devation and percentile of the numerical data
+
+df.info() to observe the data
+
 
