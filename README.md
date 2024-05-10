@@ -5,6 +5,10 @@ The dataframe is for Telco Customer Churn which has information on the details o
 There are various variables including gender, contract type, payment details and type of customers. The aim of this analysis is to try and understand the data and see the relationship between gender, phone service, contract type and churn. 
 The analysis will include conducting a linear and logistic regression to see the relationship between the x (gender, phone service, contract) and y(churn) variables.
 
+## Technologies Used
+* Jupyter Notebook
+* Python
+
 ## Steps
 
 ### Importing
