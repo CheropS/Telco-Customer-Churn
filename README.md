@@ -25,15 +25,15 @@ df.info() to observe the data
 
 ### Data Cleaning 
 Data cleaning involves preparing and processing telecommunications-related data to ensure its quality, accuracy, and consistency for analysis or modeling purposes. 
-        -Check empty columns using df.isnull().sum()
-        * fill empty cells using mean and median 
-        - check for outliers which gave us TotalCharges because the data was a multiplication of monthy charges and tenure. Monthly charges then became an outlier.
+- Check empty columns using df.isnull().sum()
+* fill empty cells using mean and median 
+- check for outliers which gave us TotalCharges because the data was a multiplication of monthy charges and tenure. Monthly charges then became an outlier.
 
 ### Label Encoding 
 Label encoding is a technique used to convert categorical variables into numerical representations. It is commonly employed in machine learning when dealing with categorical data that has a natural ordering or ranking. Label encoding assigns a unique integer to each distinct category, starting from 0.
 
 we label encode gender and contract type 
--we check which categorical data is given a 0 and a 1 
+- we check which categorical data is given a 0 and a 1 
 
 ### Regression Analysis 
 Doing a regression analysis using linear regression and logistic regression
