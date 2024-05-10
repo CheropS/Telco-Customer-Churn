@@ -25,8 +25,8 @@ df.info() to observe the data
 
 ### Data Cleaning 
 Data cleaning involves preparing and processing telecommunications-related data to ensure its quality, accuracy, and consistency for analysis or modeling purposes. 
-        - Check empty columns using df.isnull().sum()
-        - fill empty cells using mean and median 
+        -Check empty columns using df.isnull().sum()
+        * fill empty cells using mean and median 
         - check for outliers which gave us TotalCharges because the data was a multiplication of monthy charges and tenure. Monthly charges then became an outlier.
 
 ### Label Encoding 
